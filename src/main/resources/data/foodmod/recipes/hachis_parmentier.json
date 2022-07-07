@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:baked_potato"
+    },{
+      "item": "minecraft:baked_potato"
+    },{
+      "item": "minecraft:cooked_beef"
+    },{
+      "tag": "forge:onions"
+    },{
+      "item": "foodmod:salt_and_pepper"
+    }
+  ],
+  "result": {
+    "item": "foodmod:hachis_parmentier"
+  }
+}

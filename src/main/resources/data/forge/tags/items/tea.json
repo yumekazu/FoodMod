@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    "create:builders_tea",
+    "pamhc2foodextended:chaiteaitem",
+    "pamhc2foodextended:dandelionteeitem",
+    "pamhc2foodextended:earlgreyteaitem",
+    "pamhc2foodextended:greenteaitem",
+    "pamhc2foodextended:rosepetalteaitem",
+    "pamhc2foodextended:sweetteaitem",
+    "farmersrespite:green_tea",
+    "farmersrespite:yellow_tea",
+    "farmersrespite:black_tea",
+    "farmersrespite:rose_hip_tea",
+    "farmersrespite:dandelion_tea",
+    "farmersrespite:purulent_tea",
+    "lunas_food:black_tea",
+    "lunas_food:green_tea",
+    "lunas_food:chamomile_tea",
+    "lunas_food:chair_t_ea",
+    "lunas_food:earl_grey_tea",
+    "lunas_food:jasmine_tea",
+    "lunas_food:mint_tea",
+    "foodmod:lemon_tea",
+    "foodmod:honey_tea",
+    "foodmod:fruit_tea",
+    "foodmod:hibiscus_tea",
+    "foodmod:rose_tea",
+    "foodmod:mint_tea",
+    "vanillacookbook:leaf_tea",
+    "vanillacookbook:flower_tea"
+  ]
+}

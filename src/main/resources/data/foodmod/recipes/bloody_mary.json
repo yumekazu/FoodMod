@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodmod:alcohol_bucket"
+    },{
+      "tag": "forge:tomatoes"
+    },{
+      "tag": "forge:lemons"
+    },{
+      "item": "foodmod:spice_leaf"
+    },{
+      "item": "foodmod:salt_and_pepper"
+    }
+  ],
+  "result": {
+    "item": "foodmod:bloody_mary",
+    "count": 4
+  }
+}

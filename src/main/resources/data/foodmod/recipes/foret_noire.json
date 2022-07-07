@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:cocoa_beans"
+    },{
+      "tag": "forge:cream"
+    },{
+      "item": "minecraft:sugar"
+    },{
+      "item": "foodmod:alcohol_bucket"
+    },{
+      "tag": "forge:cherries"
+    }
+  ],
+  "result": {
+    "item": "foodmod:foret_noire"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "conditions": [
+    {
+      "condition": "block_state_property",
+      "block": "biomesoplenty:pink_cherry_leaves"
+    }
+  ],
+  "addition": "foodmod:cherry",
+  "type": "foodmod:cherry_from_pcherry_leaves"
+}

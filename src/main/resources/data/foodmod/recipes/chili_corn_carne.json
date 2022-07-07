@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:rice"
+    },{
+      "tag": "forge:rawbeef"
+    },{
+      "tag": "forge:bellpeppers"
+    },{
+      "tag": "forge:tomatoes"
+    },{
+      "item": "foodmod:spice_leaf"
+    },{
+      "item": "foodmod:salt_and_pepper"
+    }
+  ],
+  "result": {
+    "item": "foodmod:chili_con_carne"
+  }
+}

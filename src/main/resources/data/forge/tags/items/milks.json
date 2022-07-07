@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "foodmod:soymilk",
+    "pamhc2foodcore:freshmilkitem",
+    "pamhc2foodextended:soymilkitem",
+    "farmersdelight:milk_bottle",
+    "vanillacookbook:milk_bottle"
+  ]
+}

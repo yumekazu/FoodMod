@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:apple"
+    },{
+      "tag": "forge:tomatoes"
+    },{
+      "item": "minecraft:egg"
+    },{
+      "item": "foodmod:roasted_onion"
+    },{
+      "tag": "forge:cooked_fish"
+    },{
+      "tag": "forge:bellpeppers"
+    }
+  ],
+  "result": {
+    "item": "foodmod:slata"
+  }
+}

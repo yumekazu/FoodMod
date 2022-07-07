@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodmod:stock"
+    },{
+      "tag": "forge:rawfish"
+    },{
+      "tag": "forge:rawfish"
+    },{
+      "tag": "forge:rawfish"
+    },{
+      "item": "minecraft:bread"
+    }
+  ],
+  "result": {
+    "item": "foodmod:fish_soup"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:cocoa_beans"
+    },{
+      "tag": "forge:milk"
+    },{
+      "item": "minecraft:sugar"
+    },{
+      "item": "minecraft:snowball"
+    }
+  ],
+  "result": {
+    "item": "foodmod:chocolate_milkshake"
+  }
+}

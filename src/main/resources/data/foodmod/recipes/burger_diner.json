@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:rice"
+    },{
+      "item": "minecraft:beef"
+    },{
+      "item": "minecraft:beef"
+    },{
+      "item": "minecraft:beef"
+    },{
+      "item": "minecraft:egg"
+    },{
+      "item": "foodmod:salt_and_pepper"
+    },{
+      "tag": "forge:cabbage"
+    }
+  ],
+  "result": {
+    "item": "foodmod:burger_diner"
+  }
+}

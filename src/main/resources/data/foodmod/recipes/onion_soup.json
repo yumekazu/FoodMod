@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodmod:stock"
+    },{
+      "tag": "forge:onions"
+    },{
+      "tag": "forge:onions"
+    },{
+      "tag": "forge:onions"
+    },{
+      "item": "minecraft:bread"
+    }
+  ],
+  "result": {
+    "item": "foodmod:onion_soup"
+  }
+}

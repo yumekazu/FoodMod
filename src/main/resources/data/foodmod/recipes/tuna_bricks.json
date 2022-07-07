@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:dough"
+    },{
+      "tag": "forge:rawfish"
+    },{
+      "item": "minecraft:egg"
+    },{
+      "tag": "forge:onions"
+    },{
+      "item": "minecraft:potato"
+    },{
+      "item": "foodmod:spice_leaf"
+    }
+  ],
+  "result": {
+    "item": "foodmod:tuna_bricks",
+    "count": 4
+  }
+}

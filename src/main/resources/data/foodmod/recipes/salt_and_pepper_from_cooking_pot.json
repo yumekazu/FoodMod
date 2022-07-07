@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:salt"
+    },
+    {
+      "item": "foodmod:black_pepper"
+    }
+  ],
+  "output": {
+    "item": "foodmod:salt_and_pepper",
+    "count": 4
+  }
+}

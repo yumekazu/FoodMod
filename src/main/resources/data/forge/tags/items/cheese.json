@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "foodmod:cheese",
+    "croptopia:cheese",
+    "thermal:cheese_wedge",
+    "farmlife:tribull_cheese_wedge",
+    "harrys_food_expansion:cheese",
+    "lunas_food:swiss_cheese",
+    "lunas_food:cheddar_cheese",
+    "sushigocrafting:cheese",
+    "vanillacookbook:cheese"
+  ]
+}

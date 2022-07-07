@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "biomesoplenty:lavender"
+    },{
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "foodmod:lavender_candy",
+    "count": 3
+  }
+}

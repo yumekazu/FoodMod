@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:cocoa_beans"
+    },{
+      "tag": "forge:coconuts"
+    },{
+      "tag": "forge:grain"
+    },{
+      "item": "minecraft:sugar"
+    },{
+      "item": "minecraft:redstone"
+    }
+  ],
+  "result": {
+    "item": "foodmod:energy_bar",
+    "count": 2
+  }
+}

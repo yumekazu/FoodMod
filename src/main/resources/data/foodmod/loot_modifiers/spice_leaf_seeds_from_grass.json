@@ -1,0 +1,10 @@
+{
+  "conditions": [
+    {
+      "condition": "block_state_property",
+      "block": "minecraft:grass"
+    }
+  ],
+  "addition": "foodmod:spice_leaf_seeds",
+  "type": "foodmod:spice_leaf_seeds_from_grass"
+}

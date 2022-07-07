@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:rice"
+    },{
+      "item": "foodmod:tamagoyaki"
+    },{
+      "item": "minecraft:dried_kelp"
+    }
+  ],
+  "result": {
+    "item": "foodmod:tamago_sushi"
+  }
+}

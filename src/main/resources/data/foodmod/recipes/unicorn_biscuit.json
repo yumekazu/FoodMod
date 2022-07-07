@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:dough"
+    },{
+      "item": "minecraft:sugar"
+    },{
+      "tag": "forge:dyes"
+    }
+  ],
+  "result": {
+    "item": "foodmod:unicorn_biscuit",
+    "count": 4
+  }
+}

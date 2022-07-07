@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "foodmod:cream",
+    "create_factory:cream_bucket"
+  ]
+}

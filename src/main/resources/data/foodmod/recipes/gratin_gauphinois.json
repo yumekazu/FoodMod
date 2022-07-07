@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:cream"
+    },{
+      "item": "minecraft:potato"
+    },{
+      "item": "minecraft:potato"
+    },{
+      "item": "minecraft:potato"
+    },{
+      "item": "foodmod:salt_and_pepper"
+    }
+  ],
+  "result": {
+    "item": "foodmod:gratin_dauphinois"
+  }
+}

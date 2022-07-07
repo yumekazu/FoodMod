@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "tag": "forge:onions"
+  },
+  "result": "foodmod:roasted_onion",
+  "experience": 0.35,
+  "cookingtime": 100
+}

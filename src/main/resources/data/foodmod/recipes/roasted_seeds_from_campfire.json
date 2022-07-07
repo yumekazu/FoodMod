@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": {
+    "tag": "forge:seeds"
+  },
+  "result": "foodmod:roasted_seeds",
+  "experience": 0.35,
+  "cookingtime": 600
+}

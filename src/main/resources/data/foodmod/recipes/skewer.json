@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:stick"
+    },{
+      "tag": "forge:raw_meat"
+    },{
+      "tag": "forge:bellpeppers"
+    },{
+      "tag": "forge:tomatoes"
+    }
+  ],
+  "result": {
+    "item": "foodmod:skewer"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:cocoa_beans"
+    },{
+      "item": "foodmod:spice_leaf"
+    }
+  ],
+  "result": {
+    "item": "foodmod:mint_stuffed_chocolate"
+  }
+}

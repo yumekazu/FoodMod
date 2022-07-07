@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:caramel"
+    },{
+      "tag": "forge:cream"
+    },{
+      "item": "minecraft:snowball"
+    },{
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "foodmod:caramel_ice_cream"
+  }
+}

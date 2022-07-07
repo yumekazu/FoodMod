@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "create:chocolate_bucket"
+    },{
+      "tag": "forge:milk"
+    },{
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "foodmod:hot_chocolate",
+    "count": 2
+  }
+}

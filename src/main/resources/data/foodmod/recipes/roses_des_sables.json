@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodmod:cornflakes"
+    },
+    {
+      "tag": "forge:butters"
+    },
+    {
+      "item": "minecraft:cocoa_beans"
+    }
+  ],
+  "output": {
+    "item": "foodmod:rose_des_sables",
+    "count": 2
+  }
+}

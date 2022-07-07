@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:walnuts"
+    },{
+      "item": "minecraft:wheat"
+    },{
+      "item": "minecraft:wheat"
+    }
+  ],
+  "result": {
+    "item": "foodmod:walnut_cookie",
+    "count": 8
+  }
+}

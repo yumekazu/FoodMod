@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:cocoa_beans"
+    },{
+      "tag": "forge:cream"
+    },{
+      "item": "minecraft:snowball"
+    },{
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "foodmod:chocolate_ice_cream"
+  }
+}

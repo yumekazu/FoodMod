@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodmod:stock"
+    },{
+      "tag": "forge:tomatoes"
+    },{
+      "tag": "forge:tomatoes"
+    },{
+      "tag": "forge:tomatoes"
+    },{
+      "item": "minecraft:bread"
+    }
+  ],
+  "result": {
+    "item": "foodmod:tomato_soup"
+  }
+}

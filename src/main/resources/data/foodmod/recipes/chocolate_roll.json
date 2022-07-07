@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "create:chocolate_bucket"
+    },{
+      "item": "minecraft:bread"
+    }
+  ],
+  "result": {
+    "item": "foodmod:chocolate_roll",
+    "count": 2
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "foodmod:butter",
+    "pamhc2foodcore:butteritem",
+    "create_factory:butter"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:rice"
+    },{
+      "item": "minecraft:egg"
+    },{
+      "tag": "forge:tomatoes"
+    },{
+      "tag": "forge:raw_meat"
+    },{
+      "tag": "forge:onions"
+    },{
+      "item": "minecraft:carrot"
+    },{
+      "item": "foodmod:salt_and_pepper"
+    }
+  ],
+  "result": {
+    "item": "foodmod:omurice"
+  }
+}

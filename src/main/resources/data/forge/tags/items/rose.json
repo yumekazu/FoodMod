@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:rose_bush",
+    "farmersdelight:rose_hips",
+    "biomesoplenty:rose",
+    "byg:black_rose",
+    "byg:cyan_rose",
+    "byg:osiria_rose",
+    "byg:rose",
+    "byg:winter_rose",
+    "nature_expansion:white_rose_bush",
+    "nature_expansion:yellow_rose_bush",
+    "terraqueous:black_rose",
+    "terraqueous:rose"
+  ]
+}

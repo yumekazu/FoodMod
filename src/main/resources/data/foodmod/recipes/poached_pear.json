@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:pears"
+    },{
+      "item": "minecraft:sugar"
+    },{
+      "item": "minecraft:water_bucket"
+    }
+  ],
+  "result": {
+    "item": "foodmod:poached_pear"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "foodmod:salt",
+    "sakura:salt",
+    "pamhc2foodcore:saltitem",
+    "japanese_soups:salt"
+  ]
+}

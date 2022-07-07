@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:flour"
+    },{
+      "tag": "forge:butters"
+    },{
+      "item": "minecraft:egg"
+    },{
+      "item": "minecraft:glow_berries"
+    },{
+      "item": "minecraft:glow_berries"
+    }
+  ],
+  "result": {
+    "item": "foodmod:glowberry_pie"
+  }
+}

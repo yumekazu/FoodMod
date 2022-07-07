@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodmod:stock"
+    },{
+      "item": "minecraft:nether_wart"
+    },{
+      "item": "minecraft:warped_fungus"
+    },{
+      "item": "minecraft:crimson_fungus"
+    },{
+      "item": "minecraft:bread"
+    }
+  ],
+  "result": {
+    "item": "foodmod:nether_stew"
+  }
+}

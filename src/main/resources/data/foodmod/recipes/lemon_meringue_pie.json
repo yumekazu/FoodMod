@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:dough"
+    },{
+      "tag": "forge:lemons"
+    },{
+      "tag": "forge:cream"
+    },{
+      "item": "minecraft:egg"
+    },{
+      "item": "foodmod:meringue"
+    }
+  ],
+  "result": {
+    "item": "foodmod:lemon_meringue_pie"
+  }
+}

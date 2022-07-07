@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:grain"
+    },{
+      "tag": "forge:walnuts"
+    },{
+      "item": "minecraft:cocoa_beans"
+    },{
+      "item": "minecraft:sweet_berries"
+    }
+  ],
+  "result": {
+    "item": "foodmod:muesli"
+  }
+}

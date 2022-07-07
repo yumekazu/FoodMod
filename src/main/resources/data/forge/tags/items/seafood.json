@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:nautilus_shell",
+    "ecologics:seashell",
+    "ecologics:crab_claw",
+    "quark:crab_shell",
+    "quark:crab_leg",
+    "croptopia:crab",
+    "croptopia:calamari",
+    "croptopia:clam",
+    "croptopia:oyster",
+    "alexsmobs:lobster_tail",
+    "betteranimalsplus:crab_meat_raw",
+    "betteranimalsplus:calamari_raw",
+    "sushimod:raw_calamri"
+  ]
+}

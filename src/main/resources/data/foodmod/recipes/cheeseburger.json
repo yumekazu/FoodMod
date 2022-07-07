@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },{
+      "tag": "forge:cooked_beef"
+    },{
+      "tag": "forge:cheese"
+    },{
+      "tag": "forge:tomatoes"
+    },{
+      "tag": "forge:onions"
+    },{
+      "item": "foodmod:salt_and_pepper"
+    }
+  ],
+  "result": {
+    "item": "foodmod:cheeseburger"
+  }
+}

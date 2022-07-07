@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "foodmod:fried_egg",
+    "argentina_food_mod:huevo_frito",
+    "farmersdelight:fried_egg",
+    "food_enhancements:fried_egg",
+    "harrys_food_expansion:fried_egg",
+    "betteranimalsplus:fried_egg",
+    "veggie_way:fried_egg"
+  ]
+}

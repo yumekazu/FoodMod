@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "foodmod:pasta",
+    "foodmod:rice_noodles",
+    "croptopia:noodle",
+    "japanese_soups:raw_noodles"
+  ]
+}

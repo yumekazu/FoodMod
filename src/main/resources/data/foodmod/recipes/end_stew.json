@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodmod:stock"
+    },{
+      "item": "minecraft:popped_chorus_fruit"
+    },{
+      "item": "minecraft:dragon_breath"
+    },{
+      "item": "minecraft:chorus_flower"
+    },{
+      "item": "minecraft:bread"
+    }
+  ],
+  "result": {
+    "item": "foodmod:end_stew"
+  }
+}

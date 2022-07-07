@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodmod:poached_pear"
+    },{
+      "item": "foodmod:chocolate_ice_cream"
+    },{
+      "item": "create:chocolate_bucket"
+    },{
+      "tag": "forge:cream"
+    },{
+      "item": "foodmod:meringue"
+    },{
+      "item": "foodmod:unicorn_biscuit"
+    }
+  ],
+  "result": {
+    "item": "foodmod:yume_delight"
+  }
+}

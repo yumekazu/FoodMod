@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:wheat"
+    },{
+      "tag": "forge:rawmutton"
+    },{
+      "item": "minecraft:potato"
+    },{
+      "item": "minecraft:carrot"
+    },{
+      "item": "foodmod:spice_leaf"
+    },{
+      "tag": "forge:tomatoes"
+    },{
+      "tag": "forge:pumpkin_slice"
+    },{
+      "item": "foodmod:salt_and_pepper"
+    }
+  ],
+  "result": {
+    "item": "foodmod:couscous"
+  }
+}

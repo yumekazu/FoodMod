@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodmod:cornflakes"
+    },{
+      "item": "foodmod:cornflakes"
+    },
+    {
+      "tag": "forge:milk"
+    },
+    {
+      "tag": "forge:juices"
+    }
+  ],
+  "output": {
+    "item": "foodmod:occidental_breakfast"
+  }
+}

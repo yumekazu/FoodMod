@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:potato"
+    },{
+      "item": "minecraft:potato"
+    },{
+      "tag": "forge:onions"
+    },{
+      "tag": "forge:onions"
+    },{
+      "tag": "forge:cheese"
+    },{
+      "tag": "forge:cheese"
+    },{
+      "item": "minecraft:porkchop"
+    },{
+      "item": "minecraft:porkchop"
+    }
+  ],
+  "result": {
+    "item": "foodmod:tartiflette"
+  }
+}

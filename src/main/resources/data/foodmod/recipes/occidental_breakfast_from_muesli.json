@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodmod:muesli"
+    },
+    {
+      "tag": "forge:milk"
+    },
+    {
+      "tag": "forge:juices"
+    }
+  ],
+  "output": {
+    "item": "foodmod:occidental_breakfast"
+  }
+}

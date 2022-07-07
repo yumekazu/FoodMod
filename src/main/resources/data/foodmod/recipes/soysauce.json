@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodmod:soybean"
+    },{
+      "item": "foodmod:soybean"
+    },{
+      "item": "minecraft:wheat"
+    },{
+      "tag": "forge:salt"
+    },{
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "foodmod:soysauce_bucket"
+  }
+}

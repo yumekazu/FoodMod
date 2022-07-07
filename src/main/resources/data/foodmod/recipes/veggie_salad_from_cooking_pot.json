@@ -1,0 +1,14 @@
+{
+  "type": "foodmod:cooking_pot",
+  "ingredients": [
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "items": "foodmod:tomato"
+    }
+  ],
+  "output": {
+    "item": "foodmod:vegetables_salad"
+  }
+}

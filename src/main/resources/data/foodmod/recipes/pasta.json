@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:dough"
+    },{
+      "tag": "forge:salt"
+    }
+  ],
+  "result": {
+    "item": "foodmod:pasta",
+    "count": 4
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "create:dough",
+    "farmersdelight:wheat_dough",
+    "rikdekat_food:dough",
+    "veggie_way:dough"
+  ]
+}

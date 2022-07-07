@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:cookedfish"
+    },{
+      "tag": "forge:fries"
+    }
+  ],
+  "result": {
+    "item": "foodmod:fish_n_chips"
+  }
+}

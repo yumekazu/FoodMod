@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:rice"
+    },{
+      "item": "foodmod:roasted_seeds"
+    },{
+      "item": "minecraft:dried_kelp"
+    }
+  ],
+  "result": {
+    "item": "foodmod:onigiri",
+    "count": 2
+  }
+}

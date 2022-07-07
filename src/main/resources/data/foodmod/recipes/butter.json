@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:milk"
+    },{
+      "tag": "forge:milk"
+    },{
+      "tag": "forge:milk"
+    },{
+      "tag": "forge:salt"
+    }
+  ],
+  "result": {
+    "item": "foodmod:butter",
+    "count": 3
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "foodmod:pepper"
+  },
+  "result": "foodmod:roasted_pepper",
+  "experience": 0.35,
+  "cookingtime": 100
+}

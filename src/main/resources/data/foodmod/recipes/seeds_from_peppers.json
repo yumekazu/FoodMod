@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodmod:pepper"
+    }
+  ],
+  "result": {
+    "item": "foodmod:pepper_seeds"
+  }
+}

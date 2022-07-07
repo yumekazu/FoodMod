@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:pears"
+    },{
+      "tag": "forge:pears"
+    }
+  ],
+  "result": {
+    "item": "foodmod:pear_juice"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:pasta"
+    },{
+      "tag": "forge:cream"
+    },{
+      "tag": "forge:cheese"
+    },{
+      "item": "foodmod:spice_leaf"
+    }
+  ],
+  "result": {
+    "item": "foodmod:pesto_sauce_pasta"
+  }
+}

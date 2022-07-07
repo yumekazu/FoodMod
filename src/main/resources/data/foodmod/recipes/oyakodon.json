@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:rice"
+    },{
+      "item": "minecraft:chicken"
+    },{
+      "item": "minecraft:egg"
+    },{
+      "item": "minecraft:egg"
+    },{
+      "item": "foodmod:stock"
+    },{
+      "tag": "forge:onions"
+    }
+  ],
+  "result": {
+    "item": "foodmod:oyakodon"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodmod:soybean"
+    },{
+      "item": "foodmod:soybean"
+    },{
+      "item": "foodmod:soybean"
+    },{
+      "item": "foodmod:soybean"
+    },{
+      "item": "minecraft:bucket"
+    }
+  ],
+  "output": {
+    "item": "foodmod:soymilk_bucket"
+  }
+}

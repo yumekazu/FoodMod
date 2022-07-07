@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "forge:walnuts"
+  },
+  "result": "foodmod:roasted_walnut",
+  "experience": 0.35,
+  "cookingtime": 200
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:flour"
+    },{
+      "tag": "forge:butters"
+    },{
+      "item": "minecraft:egg"
+    },{
+      "item": "minecraft:sweet_berries"
+    },{
+      "item": "minecraft:sweet_berries"
+    }
+  ],
+  "result": {
+    "item": "foodmod:sweetberry_pie"
+  }
+}

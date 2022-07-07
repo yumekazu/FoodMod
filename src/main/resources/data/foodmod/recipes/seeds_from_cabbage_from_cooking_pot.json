@@ -1,0 +1,11 @@
+{
+  "type": "foodmod:cooking_pot",
+  "ingredients": [
+    {
+      "item": "foodmod:cabbage"
+    }
+  ],
+  "result": {
+    "item": "foodmod:cabbage_seeds"
+  }
+}

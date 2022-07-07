@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodmod:roasted_beetroot"
+    },{
+      "item": "foodmod:roasted_beetroot"
+    },{
+      "item": "foodmod:roasted_beetroot"
+    },{
+      "item": "foodmod:roasted_beetroot"
+    },{
+      "item": "foodmod:roasted_beetroot"
+    }
+  ],
+  "result": {
+    "item": "foodmod:beetroot_salad"
+  }
+}

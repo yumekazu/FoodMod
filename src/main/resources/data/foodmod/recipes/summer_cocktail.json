@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodmod:alcohol_bucket"
+    },{
+      "tag": "forge:lemons"
+    },{
+      "tag": "forge:coconuts"
+    },{
+      "tag": "forge:juice"
+    }
+  ],
+  "result": {
+    "item": "foodmod:summer_cocktail",
+    "count": 4
+  }
+}

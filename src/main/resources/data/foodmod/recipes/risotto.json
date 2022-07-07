@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodmod:stock"
+    },{
+      "tag": "forge:rice"
+    },{
+      "tag": "forge:cheese"
+    },{
+      "tag": "forge:onions"
+    }
+  ],
+  "result": {
+    "item": "foodmod:risotto"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:baked_potato",
+    "sakura:fries",
+    "croptopia:french_fries",
+    "croptopia:sweet_potato_fries",
+    "pamhc2foodcore:friesitem",
+    "pamhc2foodextended:zucchinifriesitem",
+    "harrys_food_expansion:cooked_fries",
+    "lunas_food:fries"
+  ]
+}

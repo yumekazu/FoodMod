@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:flour"
+    },{
+      "tag": "forge:milk"
+    },{
+      "item": "minecraft:egg"
+    },{
+      "item": "foodmod:alcohol_bucket"
+    },{
+      "tag": "forge:salt"
+    }
+  ],
+  "result": {
+    "item": "foodmod:crepes",
+    "count": 4
+  }
+}

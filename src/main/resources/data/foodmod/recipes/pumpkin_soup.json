@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodmod:stock"
+    },{
+      "tag": "forge:pumpkin_slice"
+    },{
+      "tag": "forge:pumpkin_slice"
+    },{
+      "tag": "forge:pumpkin_slice"
+    },{
+      "item": "minecraft:bread"
+    }
+  ],
+  "result": {
+    "item": "foodmod:pumpkin_soup"
+  }
+}

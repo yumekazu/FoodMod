@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "biomesoplenty:violet"
+    },{
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "foodmod:violet_candy",
+    "count": 3
+  }
+}

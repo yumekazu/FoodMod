@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:dough"
+    },{
+      "tag": "forge:butters"
+    },{
+      "item": "minecraft:egg"
+    },{
+      "item": "minecraft:carrot"
+    },{
+      "item": "minecraft:carrot"
+    }
+  ],
+  "result": {
+    "item": "foodmod:carrot_cake"
+  }
+}

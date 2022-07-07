@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodmod:alcohol_bucket"
+    },{
+      "tag": "forge:lemons"
+    },{
+      "item": "foodmod:biscuit"
+    },{
+      "tag": "forge:cream"
+    }
+  ],
+  "result": {
+    "item": "foodmod:lemon_tiramisu"
+  }
+}

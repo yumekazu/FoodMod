@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "create:builders_tea"
+    },{
+      "tag": "forge:fruits/"
+    }
+  ],
+  "result": {
+    "item": "foodmod:fruit_tea"
+  }
+}

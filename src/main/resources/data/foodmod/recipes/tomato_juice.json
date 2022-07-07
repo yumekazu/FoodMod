@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:tomatoes"
+    },{
+      "tag": "forge:tomatoes"
+    }
+  ],
+  "result": {
+    "item": "foodmod:tomato_juice"
+  }
+}

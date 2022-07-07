@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodmod:rice"
+    }
+  ],
+  "result": {
+    "item": "foodmod:rice_seeds"
+  }
+}

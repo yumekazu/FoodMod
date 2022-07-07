@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:dough"
+    },{
+      "tag": "forge:cheese"
+    },{
+      "tag": "forge:cheese"
+    },{
+      "tag": "forge:cheese"
+    },{
+      "tag": "forge:cream"
+    },{
+      "item": "minecraft:honey_bottle"
+    }
+  ],
+  "result": {
+    "item": "foodmod:cheese_and_honey_pizza"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:dough"
+    },{
+      "item": "minecraft:egg"
+    },{
+      "item": "minecraft:porkchop"
+    },{
+      "tag": "forge:onions"
+    }
+  ],
+  "result": {
+    "item": "foodmod:quiche_lorraine"
+  }
+}

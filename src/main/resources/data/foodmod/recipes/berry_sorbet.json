@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:glow_berries"
+    },{
+      "item": "minecraft:sweet_berries"
+    },{
+      "item": "minecraft:snowball"
+    },{
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "foodmod:berry_sorbet"
+  }
+}

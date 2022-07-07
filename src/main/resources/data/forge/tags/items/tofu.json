@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "foodmod:tofu",
+    "sakura:tofu",
+    "pamhc2foodcore:silkentofuitem",
+    "pamhc2foodcore:firmtofuitem",
+    "veggie_way:fresh_tofu"
+  ]
+}

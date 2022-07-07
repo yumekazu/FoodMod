@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:pasta"
+    },{
+      "tag": "forge:cream"
+    },{
+      "item": "minecraft:cooked_salmon"
+    },{
+      "tag": "forge:lemons"
+    },{
+      "item": "foodmod:salt_and_pepper"
+    }
+  ],
+  "result": {
+    "item": "foodmod:salmon_pasta"
+  }
+}

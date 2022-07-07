@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodmod:alcohol_bucket"
+    },{
+      "tag": "forge:lemons"
+    },{
+      "item": "foodmod:spice_leaf"
+    },{
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "foodmod:mojito",
+    "count": 4
+  }
+}

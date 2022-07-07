@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:onions"
+    },{
+      "tag": "forge:cheese"
+    },{
+      "tag": "forge:dough"
+    },{
+      "tag": "forge:raw_meat"
+    },{
+      "item": "foodmod:salt_and_pepper"
+    }
+  ],
+  "result": {
+    "item": "foodmod:meat_pie"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:rice"
+    },{
+      "tag": "forge:raw_fish"
+    },{
+      "item": "minecraft:dried_kelp"
+    }
+  ],
+  "result": {
+    "item": "foodmod:sushi"
+  }
+}

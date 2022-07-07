@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodmod:sushi"
+    },{
+      "item": "foodmod:shrimp_sushi"
+    },{
+      "item": "foodmod:tamago_sushi"
+    },{
+      "item": "foodmod:miso_soup"
+    },{
+      "tag": "forge:tea"
+    }
+  ],
+  "result": {
+    "item": "foodmod:sushi_set"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "conditions": [
+    {
+      "condition": "block_state_property",
+      "block": "minecraft:grass"
+    }
+  ],
+  "addition": "foodmod:cabbage_seeds",
+  "type": "foodmod:cabbage_seeds_from_grass"
+}

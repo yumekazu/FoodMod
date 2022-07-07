@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:cocoa_beans"
+    },{
+      "tag": "forge:lemons"
+    }
+  ],
+  "result": {
+    "item": "foodmod:lemon_stuffed_chocolate"
+  }
+}

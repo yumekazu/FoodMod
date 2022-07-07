@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:cocoa_beans"
+    },{
+      "tag": "forge:caramel"
+    }
+  ],
+  "result": {
+    "item": "foodmod:caramel_stuffed_chocolate"
+  }
+}

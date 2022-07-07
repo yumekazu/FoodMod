@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "create:builders_tea"
+    },{
+      "item": "biomesoplenty:pink_hibiscus"
+    }
+  ],
+  "result": {
+    "item": "foodmod:hibiscus_tea"
+  }
+}

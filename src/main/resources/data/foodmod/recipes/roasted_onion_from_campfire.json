@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": {
+    "tag": "forge:onions"
+  },
+  "result": "foodmod:roasted_onion",
+  "experience": 0.35,
+  "cookingtime": 600
+}

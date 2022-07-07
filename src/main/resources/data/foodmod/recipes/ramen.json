@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodmod:stock"
+    },{
+      "tag": "forge:pasta"
+    },{
+      "item": "minecraft:dried_kelp"
+    },{
+      "item": "minecraft:egg"
+    },{
+      "tag": "forge:mushrooms"
+    },{
+      "tag": "forge:raw_meat"
+    }
+  ],
+  "result": {
+    "item": "foodmod:ramen"
+  }
+}

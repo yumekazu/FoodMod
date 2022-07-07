@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:rice"
+    },{
+      "tag": "forge:chorizo"
+    },{
+      "tag": "forge:bellpeppers"
+    },{
+      "tag": "forge:shrimp"
+    },{
+      "tag": "forge:seafood"
+    },{
+      "item": "foodmod:salt_and_pepper"
+    }
+  ],
+  "result": {
+    "item": "foodmod:paella"
+  }
+}

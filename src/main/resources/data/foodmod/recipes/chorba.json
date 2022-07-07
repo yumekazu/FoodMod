@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodmod:stock"
+    },{
+      "tag": "forge:tomatoes"
+    },{
+      "tag": "forge:rawfish"
+    },{
+      "tag": "forge:pasta"
+    },{
+      "tag": "forge:lemons"
+    },{
+      "item": "foodmod:salt_and_pepper"
+    }
+  ],
+  "result": {
+    "item": "foodmod:chorba"
+  }
+}

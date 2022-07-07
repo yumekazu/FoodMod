@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:beef"
+    },{
+      "tag": "forge:onions"
+    },{
+      "item": "minecraft:carrot"
+    },{
+      "item": "foodmod:alcohol_bucket"
+    },{
+      "item": "foodmod:salt_and_pepper"
+    }
+  ],
+  "result": {
+    "item": "foodmod:boeuf_bourguignon"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "foodmod:caramel",
+    "create_confectionery:bar_of_caramel",
+    "pamhc2foodextended:saltedcaramelitem",
+    "lunas_food:caramel_candy"
+  ]
+}

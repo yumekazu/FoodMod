@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "entries": [
+    "foodmod:tomato_seeds_from_grass",
+    "foodmod:onion_seeds_from_grass",
+    "foodmod:pepper_seeds_from_grass",
+    "foodmod:rice_seeds_from_grass",
+    "foodmod:cabbage_seeds_from_grass",
+    "foodmod:spice_leaf_seeds_from_grass",
+    "foodmod:soybean_seeds_from_grass",
+    "foodmod:pear_from_birch_leaves",
+    "foodmod:lemon_from_jungle_leaves",
+    "foodmod:black_pepper_from_acacia_leaves",
+    "foodmod:cherry_from_wcherry_leaves",
+    "foodmod:cherry_from_pcherry_leaves"
+
+  ]
+}

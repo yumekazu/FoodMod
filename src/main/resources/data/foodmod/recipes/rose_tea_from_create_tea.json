@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "create:builders_tea"
+    },{
+      "tag": "forge:rose"
+    }
+  ],
+  "result": {
+    "item": "foodmod:rose_tea"
+  }
+}

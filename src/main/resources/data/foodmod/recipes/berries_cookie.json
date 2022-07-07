@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:sweet_berries"
+    },{
+      "item": "minecraft:wheat"
+    },{
+      "item": "minecraft:wheat"
+    }
+  ],
+  "result": {
+    "item": "foodmod:berry_cookie",
+    "count": 8
+  }
+}

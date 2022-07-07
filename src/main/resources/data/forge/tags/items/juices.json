@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:juices/apple_juice",
+    "#forge:juices/cherry_juice",
+    "#forge:juices/glowberry_juice",
+    "#forge:juices/melon_juice",
+    "#forge:juices/pear_juice",
+    "#forge:juices/pumpkin_juice",
+    "#forge:juices/sweetberry_juice",
+    "#forge:juices/tomato_juice"
+  ]
+}

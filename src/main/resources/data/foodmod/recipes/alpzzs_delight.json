@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },{
+      "tag": "forge:cheese"
+    },{
+      "tag": "forge:cheese"
+    },{
+      "tag": "forge:chorizo"
+    },{
+      "tag": "forge:chorizo"
+    },{
+      "item": "minecraft:cooked_beef"
+    },{
+      "item": "minecraft:cooked_porkchop"
+    },{
+      "tag": "forge:onions"
+    }
+  ],
+  "result": {
+    "item": "foodmod:alpzz_delight"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodmod:soymilk_bucket"
+    },{
+      "tag": "forge:lemons"
+    },{
+      "tag": "forge:salt"
+    }
+  ],
+  "result": {
+    "item": "foodmod:tofu",
+    "count": 4
+  }
+}

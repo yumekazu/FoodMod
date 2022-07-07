@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:milk"
+    }
+  ],
+  "result": {
+    "item": "foodmod:cream",
+    "count": 4
+  }
+}

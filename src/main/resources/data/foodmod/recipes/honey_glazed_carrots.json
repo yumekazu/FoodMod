@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:carrot"
+    },{
+      "item": "minecraft:carrot"
+    },{
+      "item": "minecraft:carrot"
+    },{
+      "item": "minecraft:honey_bottle"
+    }
+  ],
+  "result": {
+    "item": "foodmod:honey_glazed_carrots"
+  }
+}

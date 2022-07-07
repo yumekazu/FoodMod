@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:rice"
+    },{
+      "item": "foodmod:miso_soup"
+    },{
+      "item": "minecraft:dried_kelp"
+    },{
+      "tag": "forge:cooked_fish"
+    },{
+      "tag": "forge:tea"
+    }
+  ],
+  "result": {
+    "item": "foodmod:japanese_breakfast"
+  }
+}

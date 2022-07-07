@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "minecraft:flowers"
+    },{
+      "item": "foodmod:cabbage"
+    },{
+      "tag": "minecraft:flowers"
+    },{
+      "tag": "minecraft:flowers"
+    },{
+      "tag": "minecraft:flowers"
+    }
+  ],
+  "result": {
+    "item": "foodmod:flowers_salad"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:tomatoes"
+    },{
+      "tag": "forge:tomatoes"
+    },{
+      "tag": "forge:cheese"
+    },{
+      "tag": "forge:cheese"
+    },{
+      "item": "foodmod:salt_and_pepper"
+    }
+  ],
+  "result": {
+    "item": "foodmod:mozzarella_tomato_salad"
+  }
+}

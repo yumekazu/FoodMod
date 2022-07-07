@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:dough"
+    },{
+      "tag": "forge:butters"
+    },{
+      "item": "minecraft:egg"
+    },{
+      "tag": "forge:cherries"
+    },{
+      "tag": "forge:cherries"
+    }
+  ],
+  "result": {
+    "item": "foodmod:cherry_pie"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:rice"
+    },{
+      "tag": "forge:chorizo"
+    },{
+      "tag": "forge:rawfish"
+    },{
+      "tag": "forge:onions"
+    },{
+      "tag": "forge:tomatoes"
+    },{
+      "tag": "forge:cream"
+    },{
+      "item": "foodmod:salt_and_pepper"
+    }
+  ],
+  "result": {
+    "item": "foodmod:fish_and_chorizo"
+  }
+}

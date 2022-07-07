@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:fruits/"
+    },{
+      "tag": "forge:fruits/"
+    },{
+      "tag": "forge:fruits/"
+    },{
+      "tag": "forge:fruits/"
+    },{
+      "tag": "forge:fruits/"
+    }
+  ],
+  "result": {
+    "item": "foodmod:fruits_salad"
+  }
+}

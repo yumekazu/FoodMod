@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:cocoa_beans"
+    },{
+      "tag": "forge:cream"
+    },{
+      "item": "minecraft:sugar"
+    },{
+      "item": "foodmod:meringue"
+    }
+  ],
+  "result": {
+    "item": "foodmod:merveilleux"
+  }
+}

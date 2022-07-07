@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodmod:onion"
+    }
+  ],
+  "result": {
+    "item": "foodmod:onion_seeds"
+  }
+}

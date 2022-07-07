@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:fruits/cherry",
+    "#forge:fruits/lemon",
+    "#forge:fruits/pear"
+  ]
+}
